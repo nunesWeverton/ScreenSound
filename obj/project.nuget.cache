@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hSG3ux7jk+g11tG8WgwIiE+bU/U0Fll22k6xCAelsdtmYMUy0I6NfuRfOCN3Kwx5z/YGLKRQJrKyFIx27aSatw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wever\\OneDrive\\Área de Trabalho\\Nova pasta\\ScreenSound03-aula-1\\ScreenSound\\ScreenSound.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wever\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\wever\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\wever\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\wever\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
