@@ -33,7 +33,7 @@ internal class MenuExibirDetalhes : Menu
             /**
             * ESPAÇO RESERVADO PARA COMPLETAR A FUNÇÃO
             */
-            Console.WriteLine("Digite uma tecla para votar ao menu principal");
+            Console.WriteLine("Digite1 uma tecla para votar ao menu principal");
             Console.ReadKey();
             Console.Clear();
            
